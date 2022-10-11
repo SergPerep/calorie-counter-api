@@ -24,6 +24,6 @@ router.get("/hello", (req, res) => {
 
 app.use(handleErrors);
 
-app.use("/.netlify/functions/api", router); // path must route to lambda
+app.use("/.netlify/functions/app", router); // path must route to lambda
 
 module.exports.handler = serverless(app);
