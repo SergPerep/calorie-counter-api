@@ -1,0 +1,91 @@
+2022-10-10,breakfast,Sandwiches,Bread,2.98,12.30,39.20,50,g
+2022-10-10,breakfast,Sandwiches,Cheese,31.00,27.00,1.44,15,g
+2022-10-10,breakfast,Sandwiches,Butter,82.00,1.00,1.00,3,g
+2022-10-10,lunch,Salmon with rice,Salmon,13.40,20.40,0.00,150,g
+2022-10-10,lunch,Salmon with rice,White rice,1.00,5.80,79.60,40,g
+2022-10-10,lunch,Salmon with rice,Arugula,0.40,3.60,0.00,25,g
+2022-10-10,lunch,Salmon with rice,Cherry tomato,0.80,0.90,4.00,30,g
+2022-10-10,lunch,Salmon with rice,Cucumber,0.43,0.48,1.99,30,g
+2022-10-10,lunch,Salmon with rice,Paprika,0.13,0.90,6.65,30,g
+2022-10-10,dinner,Baked cod with broccoli,Codfish,34.00,23.30,2.44,100,g
+2022-10-10,dinner,Baked cod with broccoli,Broccoli,0.34,2.57,6.27,150,g
+2022-10-10,dinner,Baked cod with broccoli,Olive oil,91.00,0.00,0.00,15,ml
+2022-10-11,breakfast,Muesli with milk,Muesli,11.00,10.00,57.00,100,g
+2022-10-11,breakfast,Muesli with milk,Milk,3.60,3.60,4.60,200,ml
+2022-10-11,lunch,Ramen,Сhicken bouillon,0.60,1.50,0.10,150,ml
+2022-10-11,lunch,Ramen,Rice noodles,1.00,7.70,79.70,75,g
+2022-10-11,lunch,Ramen,Chicken breast,1.20,25.00,0.00,50,g
+2022-10-11,lunch,Ramen,Olive oil,91.00,0.00,0.00,3,ml
+2022-10-11,lunch,Ramen,Seaweed,0.30,6.00,81.00,10,g
+2022-10-11,lunch,Ramen,Egg,9.10,12.00,0.20,20,g
+2022-10-11,dinner,Pasta with champignon,Pasta,3.00,10.00,53.00,50,g
+2022-10-11,dinner,Pasta with champignon,Chicken breast,1.20,25.00,0.00,50,g
+2022-10-11,dinner,Pasta with champignon,Champignon,0.50,2.30,0.40,50,g
+2022-10-11,dinner,Pasta with champignon,Sour cream,10.00,3.00,4.00,100,ml
+2022-10-11,dinner,Pasta with champignon,Olive oil,91.00,0.00,0.00,5,ml
+2022-10-12,breakfast,Oatmeals,Oatmeals,6.90,13.00,58.00,75,g
+2022-10-12,breakfast,Oatmeals,Milk,3.60,3.60,4.60,75,ml
+2022-10-12,breakfast,Oatmeals,Sugar,0.00,0.00,100.00,10,g
+2022-10-12,breakfast,Oatmeals,Banana,0.22,0.73,20.10,150,g
+2022-10-12,breakfast,Oatmeals,Raspberry,0.19,1.01,12.90,70,g
+2022-10-12,lunch,Baked chicken with couscous,Codfish,34.00,23.30,2.44,100,g
+2022-10-12,lunch,Baked chicken with couscous,Broccoli,0.34,2.57,6.27,150,g
+2022-10-12,lunch,Baked chicken with couscous,Olive oil,91.00,0.00,0.00,15,ml
+2022-10-12,dinner,Beef stroganoff puree,Potato,0.00,2.00,19.00,100,g
+2022-10-12,dinner,Beef stroganoff puree,Milk,3.60,3.60,4.60,50,ml
+2022-10-12,dinner,Beef stroganoff puree,Butter,82.00,1.00,1.00,30,g
+2022-10-12,dinner,Beef stroganoff puree,Mustard,6.90,6.60,6.40,10,ml
+2022-10-12,dinner,Beef stroganoff puree,Beef,9.50,20.00,0.00,75,g
+2022-10-12,dinner,Beef stroganoff puree,Champignon,0.50,2.30,0.40,75,g
+2022-10-12,dinner,Beef stroganoff puree,Sour cream,10.00,3.00,4.00,30,g
+2022-10-13,breakfast,Scrambled eggs,Egg,9.10,12.00,0.20,120,g
+2022-10-13,breakfast,Scrambled eggs,Butter,82.00,1.00,1.00,2,g
+2022-10-13,lunch,Carbonara,Bacon,36.50,40.90,2.10,50,g
+2022-10-13,lunch,Carbonara,Pasta,3.00,10.00,53.00,50,g
+2022-10-13,lunch,Carbonara,Yolk,27.00,16.00,3.60,20,g
+2022-10-13,lunch,Carbonara,Cheese parmesan,29.50,30.10,4.33,15,g
+2022-10-13,dinner,Potato with beef,Potato,0.00,2.00,19.00,100,g
+2022-10-13,dinner,Potato with beef,Beef,9.50,20.00,0.00,75,g
+2022-10-13,dinner,Potato with beef,Carrot,0.30,0.60,5.70,30,g
+2022-10-13,dinner,Potato with beef,Onion,0.10,1.20,6.60,30,g
+2022-10-13,dinner,Potato with beef,Olive oil,91.00,0.00,0.00,10,ml
+2022-10-14,breakfast,Sandwiches,Bread,2.98,12.30,39.20,50,g
+2022-10-14,breakfast,Sandwiches,Cheese,31.00,27.00,1.44,15,g
+2022-10-14,breakfast,Sandwiches,Butter,82.00,1.00,1.00,3,g
+2022-10-14,lunch,Salmon with rice,Salmon,13.40,20.40,0.00,150,g
+2022-10-14,lunch,Salmon with rice,White rice,1.00,5.80,79.60,40,g
+2022-10-14,lunch,Salmon with rice,Arugula,0.40,3.60,0.00,25,g
+2022-10-14,lunch,Salmon with rice,Cherry tomato,0.80,0.90,4.00,30,g
+2022-10-14,lunch,Salmon with rice,Cucumber,0.43,0.48,1.99,30,g
+2022-10-14,lunch,Salmon with rice,Paprika,0.13,0.90,6.65,30,g
+2022-10-14,dinner,Baked cod with broccoli,Codfish,34.00,23.30,2.44,100,g
+2022-10-14,dinner,Baked cod with broccoli,Broccoli,0.34,2.57,6.27,150,g
+2022-10-14,dinner,Baked cod with broccoli,Olive oil,91.00,0.00,0.00,15,ml
+2022-10-15,breakfast,Muesli with milk,Muesli,11.00,10.00,57.00,100,g
+2022-10-15,breakfast,Muesli with milk,Milk,3.60,3.60,4.60,200,ml
+2022-10-15,lunch,Ramen,Сhicken bouillon,0.60,1.50,0.10,150,ml
+2022-10-15,lunch,Ramen,Rice noodles,1.00,7.70,79.70,75,g
+2022-10-15,lunch,Ramen,Chicken breast,1.20,25.00,0.00,50,g
+2022-10-15,lunch,Ramen,Olive oil,91.00,0.00,0.00,3,ml
+2022-10-15,lunch,Ramen,Seaweed,0.30,6.00,81.00,10,g
+2022-10-15,lunch,Ramen,Egg,9.10,12.00,0.20,20,g
+2022-10-15,dinner,Pasta with champignon,Pasta,3.00,10.00,53.00,50,g
+2022-10-15,dinner,Pasta with champignon,Chicken breast,1.20,25.00,0.00,50,g
+2022-10-15,dinner,Pasta with champignon,Champignon,0.50,2.30,0.40,50,g
+2022-10-15,dinner,Pasta with champignon,Sour cream,10.00,3.00,4.00,100,ml
+2022-10-15,dinner,Pasta with champignon,Olive oil,91.00,0.00,0.00,5,ml
+2022-10-16,breakfast,Oatmeals,Oatmeals,6.90,13.00,58.00,75,g
+2022-10-16,breakfast,Oatmeals,Milk,3.60,3.60,4.60,75,ml
+2022-10-16,breakfast,Oatmeals,Sugar,0.00,0.00,100.00,10,g
+2022-10-16,breakfast,Oatmeals,Banana,0.22,0.73,20.10,150,g
+2022-10-16,breakfast,Oatmeals,Raspberry,0.19,1.01,12.90,70,g
+2022-10-16,lunch,Baked chicken with couscous,Codfish,34.00,23.30,2.44,100,g
+2022-10-16,lunch,Baked chicken with couscous,Broccoli,0.34,2.57,6.27,150,g
+2022-10-16,lunch,Baked chicken with couscous,Olive oil,91.00,0.00,0.00,15,ml
+2022-10-16,dinner,Beef stroganoff puree,Potato,0.00,2.00,19.00,100,g
+2022-10-16,dinner,Beef stroganoff puree,Milk,3.60,3.60,4.60,50,ml
+2022-10-16,dinner,Beef stroganoff puree,Butter,82.00,1.00,1.00,30,g
+2022-10-16,dinner,Beef stroganoff puree,Mustard,6.90,6.60,6.40,10,ml
+2022-10-16,dinner,Beef stroganoff puree,Beef,9.50,20.00,0.00,75,g
+2022-10-16,dinner,Beef stroganoff puree,Champignon,0.50,2.30,0.40,75,g
+2022-10-16,dinner,Beef stroganoff puree,Sour cream,10.00,3.00,4.00,30,g
