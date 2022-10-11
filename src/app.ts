@@ -3,21 +3,21 @@ import serverless from "serverless-http";
 import logRequests from "./utils/logRequests";
 import recordsAPI from "./components/records/recordsAPI";
 import handleErrors from "./components/errors/handleErrors";
-import cors from "cors";
+// import cors from "cors";
 export const app = express();
 
-app.use(cors({ origin: "http://localhost:3000" }));
+// app.use(cors({ origin: "http://localhost:3000" }));
 app.use(logRequests);
 app.use(express.json());
 
 // const router = express.Router();
+app.use("/records", recordsAPI);
 app.get("/", (req, res) => {
+  console.log("Root - /");
   res.writeHead(200, { "Content-Type": "text/html" });
   res.write("<h1>Hello from Express.js!</h1>");
   res.end();
 });
-
-app.use("/records", recordsAPI);
 app.get("/hello", (req, res) => {
   res.send("Hello");
 });
