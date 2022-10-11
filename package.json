@@ -2,10 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "functions/app.js",
   "scripts": {
     "test": "jest --silent --verbose --watch",
-    "build": "npm install && tsc && netlify-lambda build dist",
+    "build": "npm install && tsc",
     "start": "node dist/app.js",
     "server": "concurrently \"tsc --watch\" \"nodemon dist/index.js\"",
     "client": "npm start --prefix client",

@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 import dotenv from "dotenv";
-import { app } from "./app";
+import app from "./app";
 dotenv.config();
 
 // Connection URI
