@@ -1,12 +1,16 @@
 import express from "express";
-import serverless from "serverless-http";
 import logRequests from "./utils/logRequests";
 import recordsAPI from "./components/records/recordsAPI";
 import handleErrors from "./components/errors/handleErrors";
-// import cors from "cors";
-export const app = express();
+import cors from "cors";
+import dotenv from "dotenv";
+dotenv.config();
 
-// app.use(cors({ origin: "http://localhost:3000" }));
+const app = express();
+
+const { CORS_ALLOWED_ORIGIN = "http://localhost:3000" } = process.env;
+
+app.use(cors({ origin: CORS_ALLOWED_ORIGIN }));
 app.use(logRequests);
 app.use(express.json());
 

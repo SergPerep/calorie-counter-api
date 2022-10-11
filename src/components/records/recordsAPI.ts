@@ -1,6 +1,6 @@
 import { Router } from "express";
 import { ObjectId } from "mongodb";
-import { app } from "../../app";
+import app from "../../app";
 const router = Router();
 import sc from "../../utils/statusCodes";
 import {
