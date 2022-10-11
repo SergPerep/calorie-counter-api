@@ -8,9 +8,9 @@ dotenv.config();
 
 const app = express();
 
-const { CORS_ALLOWED_ORIGIN = "http://localhost:3000" } = process.env;
+// const { CORS_ALLOWED_ORIGIN = "http://localhost:3000" } = process.env;
 
-app.use(cors({ origin: CORS_ALLOWED_ORIGIN }));
+app.use(cors());
 app.use(logRequests);
 app.use(express.json());
 
